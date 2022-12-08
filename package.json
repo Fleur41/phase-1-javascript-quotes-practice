@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-javascript-quotes-practice",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fleur41/phase-1-javascript-quotes-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleur41/phase-1-javascript-quotes-practice/issues"
+  },
+  "homepage": "https://github.com/Fleur41/phase-1-javascript-quotes-practice#readme"
+}
